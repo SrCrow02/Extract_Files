@@ -1,0 +1,17 @@
+{
+  "name": "extrair-zip",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "extract": "node index.js"
+  },
+  "keywords": [],
+  "author": "SrCrow02",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.10",
+    "inquirer": "^9.2.10"
+  }
+}
