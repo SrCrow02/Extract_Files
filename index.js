@@ -9,7 +9,7 @@ const output = "./extractFile/";
 const menuOptions = {
     type: "list",
     name: "menuItem",
-    message: "Escolha ua opção",
+    message: "Escolha uma opção",
     choices: [
         'Extract',
         'Compact',
